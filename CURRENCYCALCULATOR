@@ -1,0 +1,219 @@
+<iframe height="375" width="197" src="https://ssltools.forexprostools.com/currency-converter/index.php?from=12&to=29&force_lang=56"></iframe><br /><table width="197"><tr><td><span style="font-size: 11px;color: #333333;text-decoration: none;">The Currency Converter is powered by <a href="https://in.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com India</a></span></td></tr></table>
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Ticker Tape</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "description": "SENSEX",
+      "proName": "BSE:SENSEX"
+    },
+    {
+      "description": "ADANIPORTS",
+      "proName": "BSE:ADANIPORTS"
+    },
+    {
+      "description": "ASIANPAINT",
+      "proName": "BSE:ASIANPAINT"
+    },
+    {
+      "description": "AXISBANK",
+      "proName": "BSE:AXISBANK"
+    },
+    {
+      "description": "BAJAJ-AUTO",
+      "proName": "BSE:BAJAJ_AUTO"
+    },
+    {
+      "description": "BAJAJFINSV",
+      "proName": "BSE:BAJAJFINSV"
+    },
+    {
+      "description": "BHARTIARTL",
+      "proName": "BSE:BHARTIARTL"
+    },
+    {
+      "description": "BPCL",
+      "proName": "BSE:BPCL"
+    },
+    {
+      "description": "BRITANNIA",
+      "proName": "BSE:BRITANNIA"
+    },
+    {
+      "description": "CIPLA",
+      "proName": "BSE:CIPLA"
+    },
+    {
+      "description": "COALINDIA",
+      "proName": "BSE:COALINDIA"
+    },
+    {
+      "description": "DIVISLAB",
+      "proName": "BSE:DIVISLAB"
+    },
+    {
+      "description": "DRREDDY",
+      "proName": "BSE:DRREDDY"
+    },
+    {
+      "description": "EICHERMOT",
+      "proName": "BSE:EICHERMOT"
+    },
+    {
+      "description": "GAIL",
+      "proName": "BSE:GAIL"
+    },
+    {
+      "description": "GRASIM",
+      "proName": "BSE:GRASIM"
+    },
+    {
+      "description": "HCLTECH",
+      "proName": "BSE:HCLTECH"
+    },
+    {
+      "description": "HDFC",
+      "proName": "BSE:HDFC"
+    },
+    {
+      "description": "HDFC BANK",
+      "proName": "BSE:HDFCBANK"
+    },
+    {
+      "description": "HDFC LIFE",
+      "proName": "BSE:HDFCLIFE"
+    },
+    {
+      "description": "HEROMOTOCO",
+      "proName": "BSE:HEROMOTOCO"
+    },
+    {
+      "description": "HINDALCO",
+      "proName": "BSE:HINDALCO"
+    },
+    {
+      "description": "HINDUNILVR",
+      "proName": "BSE:HINDUNILVR"
+    },
+    {
+      "description": "ICICI BANK",
+      "proName": "BSE:ICICIBANK"
+    },
+    {
+      "description": "INDUSINDBK",
+      "proName": "BSE:INDUSINDBK"
+    },
+    {
+      "description": "INFY",
+      "proName": "BSE:INFY"
+    },
+    {
+      "description": "IOC",
+      "proName": "BSE:IOC"
+    },
+    {
+      "description": "ITC",
+      "proName": "BSE:ITC"
+    },
+    {
+      "description": "JSW STEEL",
+      "proName": "BSE:JSWSTEEL"
+    },
+    {
+      "description": "KOTAKBANK",
+      "proName": "BSE:KOTAKBANK"
+    },
+    {
+      "description": "LT",
+      "proName": "BSE:LT"
+    },
+    {
+      "description": "M&M",
+      "proName": "BSE:M_M"
+    },
+    {
+      "description": "MARUTI",
+      "proName": "BSE:MARUTI"
+    },
+    {
+      "description": "NESTLEIND",
+      "proName": "BSE:NESTLEIND"
+    },
+    {
+      "description": "NTPC",
+      "proName": "BSE:NTPC"
+    },
+    {
+      "description": "ONGC",
+      "proName": "BSE:ONGC"
+    },
+    {
+      "description": "POWERGRID",
+      "proName": "BSE:POWERGRID"
+    },
+    {
+      "description": "RELIANCE",
+      "proName": "BSE:RELIANCE"
+    },
+    {
+      "description": "SBILIFE",
+      "proName": "BSE:SBILIFE"
+    },
+    {
+      "description": "SBIN",
+      "proName": "BSE:SBIN"
+    },
+    {
+      "description": "SHREECEM",
+      "proName": "BSE:SHREECEM"
+    },
+    {
+      "description": "SUNPHARMA",
+      "proName": "BSE:SUNPHARMA"
+    },
+    {
+      "description": "TATA MOTORS",
+      "proName": "BSE:TATAMOTORS"
+    },
+    {
+      "description": "TATA STEEL",
+      "proName": "BSE:TATASTEEL"
+    },
+    {
+      "description": "TCS",
+      "proName": "BSE:TCS"
+    },
+    {
+      "description": "TECHM",
+      "proName": "BSE:TECHM"
+    },
+    {
+      "description": "TITAN",
+      "proName": "BSE:TITAN"
+    },
+    {
+      "description": "ULTRACEMCO",
+      "proName": "BSE:ULTRACEMCO"
+    },
+    {
+      "description": "UPL",
+      "proName": "BSE:UPL"
+    },
+    {
+      "description": "WIPRO",
+      "proName": "BSE:WIPRO"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "locale": "in"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
